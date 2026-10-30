@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio ligo-ratio-calc tool."""
 
 from __future__ import annotations

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Configuration and environment resolution for pepkio-ligo-ratio-calc."""
 
 from __future__ import annotations

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Typed API request/response models for ligo-ratio-calc."""
 
 from __future__ import annotations
